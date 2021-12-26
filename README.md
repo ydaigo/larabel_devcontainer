@@ -11,7 +11,7 @@ LarabelのDevContainerを利用した環境構築用のリポジトリです。
 
 # 使い方
 
-右下の緑色のマークをクリックして「Reopen in Container」をクリックします。
+右下の緑色のマークをクリックして「Reopen in Container」をクリックします。数秒待つと、コンテナが立ち上がり環境構築は終了です。
 
 ![image](https://user-images.githubusercontent.com/44220424/147376984-508b27ca-9d97-41b1-bf8d-072abc11fcfb.png)
 
